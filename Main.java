@@ -281,7 +281,7 @@ public class Main {
         String odwrocony = new StringBuilder(charnastring).reverse().toString();
         System.out.println(odwrocony);
         palindrom(charnastring);
-        System.out.println("Mogą wystąpić problemy po wcisnieciu ctrl+D w pózniejszych programach");
+        System.out.println("Mogą wystąpić problemy po wcisnieciu ctrl+D w pózniejszych programach prośba o zakomentowanie tego zadania w main :)");
     }
 
     public static void zad10() {
